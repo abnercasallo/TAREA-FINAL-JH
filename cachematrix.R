@@ -1,4 +1,4 @@
-FINAL PROJECT
+FINAL PROJECT.
 ## Put comments here that give an overall description of what your
 
 ## Write a short comment describing this function
