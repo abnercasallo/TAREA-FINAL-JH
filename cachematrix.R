@@ -1,9 +1,7 @@
-FINAL PROJECT.
+FINAL PROJECT:
 ## Put comments here that give an overall description of what your
 
-## Write a short comment describing this function
-
-## This function creates a special "matrix" object that can cache its inverse. The steps are the next:
+## Descrptiom: This function creates a special "matrix" object that can cache its inverse. The steps are the next:
 
 makeCacheMatrix <- function(x = matrix()){  ## We are defining the argument 
   inv <- NULL                               ## We initialize inv as NULL; will and mantain the value of matrix inverse 
